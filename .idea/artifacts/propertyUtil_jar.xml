@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="propertyUtil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/propertyUtil_jar</output-path>
+    <root id="archive" name="propertyUtil.jar">
+      <element id="module-output" name="Jdbc" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/propertyUtil/Jdbc.iml" filepath="$PROJECT_DIR$/propertyUtil/Jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/propertyUtil.iml" filepath="$PROJECT_DIR$/.idea/propertyUtil.iml" />
+    </modules>
+  </component>
+</project>
